@@ -8,5 +8,4 @@ python manage.py startapp
 
 python manage.py runserver
 new
-
-new
+old
